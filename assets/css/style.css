@@ -197,7 +197,7 @@ h1, body {
     transform: translateY(-50px);
   }
   100%{
-    transform: translateY(opx);
+    transform: translateY(0px);
   }
 
 }
